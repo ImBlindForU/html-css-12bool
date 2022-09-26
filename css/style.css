@@ -1,0 +1,13 @@
+
+[class*="col-xs-"]{
+    background-color: lightcoral;
+    border: 1px solid white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.spazio .row .col-xs-12{
+    background-color: white;
+}
+
+
